@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 
 SELECT B.ID
 FROM WEATHER AS A 
